@@ -4,7 +4,7 @@ pub mod state;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("DxuwDmo88hQqZBvzwrUFpsxfzg8yxW5chp4vJFFHCPqF");
+declare_id!("88zKCxGCYGdzQZwicP829eZMsrYVh8uyQ1m6vZ76Jgb3");
 
 #[program]
 pub mod did {
